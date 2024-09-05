@@ -7,7 +7,7 @@
 ### ✨ I'm Currently a 4th year student in Jadavpur University, majoring in Electrical Enginnering.
 ### 🔭 I’m currently working on Machine Learning and Deep Learning.
 ### 🌱 I’m currently learning NLP.
-### 💬 Ask me about Machine Learning, Python, Deep Learning and MY Favourite DSA.
+### 💬 Ask me about Machine Learning, Python, Deep Learning and my Favourite DSA.
 ### 📫 How to reach me: debjitpatar555@gmail.com
 
 
